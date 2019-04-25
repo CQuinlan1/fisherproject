@@ -1,5 +1,5 @@
 # fisherproject
-Phython investigation of the Iris data set
+Python investigation of the Iris data set
 This data set I hope to investigate over the next few weeks and break my work on it into steps.
 Discuss the background of the data set itself:
     1.  Then using Python, download the csv file
