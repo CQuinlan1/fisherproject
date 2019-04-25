@@ -86,12 +86,18 @@ print("maximums  of attributes for setosa, virginia and variacolor :")
 print(df.groupby('class').max())
 
 
-# Stage 5: Reviewing mean, stand deviation and corrrelation, and predictability
- # st_dev = np.std(data['class'])
- # print("The standard deviation is %r") %(st_dev)
+# Stage 5: Other statistics calculations  such as  standard deviation, corrrelation, and predictability
 
-# corr = data.corr()        # correlation of different attributes and we can see if there is a pos correlation
-#corr
+#st_dev = numpy.std(data[:,0])
+print("The standard deviation of the attributes are:""\n")
+strdev = df.std()
+# correlation of different attributes and we can see if there is a pos correlation
+corr = df.corr()
+print("correlation between the data attributes is" "\n",(corr))
+      
+  # Covariance of different attributes and we can see if there is a covariance:
+cov = df.cov()
+print("The covariance of the data is""\n",(cov)) 
 #  Stage 6:  showing graphically that one data type is different using bivariate data (One class is linearly separable from the other 2; the latter are NOT linearly separable from each other. )
 
 
@@ -150,27 +156,10 @@ plt.show()
 
 
 
-#plt.figure(figsize=(10,8)) 
-# sns.heatmap(corr, 
-          #  xticklabels=corr.columns.values,
-           # yticklabels=corr.columns.values,
-        # cmap='viridis', annot=True)
-#plt.show()
 
-# Stage 5: Reviewing mean, stand deviation and corrrelation, and predictability
- # st_dev = np.std(data['alcohol'])
- # print("The standard deviation is %r") %(st_dev)
 
-# corr = data.corr()        # correlation of different attributes and we can see if there is a pos correlation
-#corr
 #  Stage 6:  showing graphically that one data type is different using bivariate data (One class is linearly separable from the other 2; the latter are NOT linearly separable from each other. )
 
 plt.plot(kind = 'scatter', x ='sepal_length', y = 'sepal_width')
 plt.show()   
 
-#plt.figure(figsize=(10,8)) 
-# sns.heatmap(corr, 
-          #  xticklabels=corr.columns.values,
-           # yticklabels=corr.columns.values,
-        # cmap='viridis', annot=True)
-#plt.show()
