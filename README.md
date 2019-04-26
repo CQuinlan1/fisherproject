@@ -36,6 +36,8 @@ The second stage confirms that we are looking at a balanced set of data where th
 
  
 Third stage of the program deals with finding the required  values of max/min/mean of sepal_length,sepal_width,petal_length,and petal_width.
+![Required min man mean for iris data set](https://user-images.githubusercontent.com/47123224/56820678-74e8f600-6844-11e9-9f78-a8cd5b1e616d.png)
+
  
 Fourth stage I looked at max/min/mean using the numpy function again but of each iris type
  
