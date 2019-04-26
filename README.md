@@ -53,6 +53,7 @@ Also worth noting is covariance: between petal length it is highest at 3.096372,
 Stage 6 was where I introduced graphics to help me visualise the data. I felt the scatterplot suited the data best. I initially tried with it being monotone but to aid our understanding adapted it to be represented in colour.  I created 6 graphs; the first 2 being monotone so we can compare the effects of colour on our understanding of the data.
 
 ![iris graph 1](https://user-images.githubusercontent.com/47123224/56820960-2425cd00-6845-11e9-8254-a8b2fadaf16a.png)
+![iris graph 2](https://user-images.githubusercontent.com/47123224/56821084-5fc09700-6845-11e9-9d81-8dac2a8c631f.png)
 
   
 As mentioned until colour is introduced it is difficult to appreciate the data fully.
