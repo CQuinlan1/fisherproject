@@ -11,10 +11,7 @@ Discuss the background of the data set itself:
     7.  Look at standard deviation, correlation and any predictability or inference we might find.
     8.  Summarise findings.
     
-    Photo from  https://www.kaggle.com/mjbahmani/20-ml-algorithms-15-plot-for-beginners
     
-    ![iris picturekaggle](https://user-images.githubusercontent.com/47123224/56820409-bdec7a80-6843-11e9-9a29-d388f8f148c6.png)
-
 
 ![data iris balanced](https://user-images.githubusercontent.com/47123224/56813531-0ea8a700-6835-11e9-99fb-6d059148886d.png)
 
@@ -32,7 +29,7 @@ My program I broke into 6 stages in the end.
 My first stage of the program reads the file from a downloaded csv file.
 The second stage confirms that we are looking at a balanced set of data where there is 50 studied of each type.
 
-![data iris balanced](https://user-images.githubusercontent.com/47123224/56820547-23d90200-6844-11e9-9ab7-81bd4ece1563.png)
+
 
  
 Third stage of the program deals with finding the required  values of max/min/mean of sepal_length,sepal_width,petal_length,and petal_width.
@@ -95,4 +92,6 @@ https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-29
 https://www.youtube.com/watch?v=FLuqwQgSBDw
 https://courses.cs.ut.ee/MTAT.03.183/2017_spring/uploads/Main/example_submission.html
 http://www.cse.msu.edu/~ptan/dmbook/tutorials/tutorial3/tutorial3.html
+
+![data iris balanced](https://user-images.githubusercontent.com/47123224/56813531-0ea8a700-6835-11e9-99fb-6d059148886d.png)
 
