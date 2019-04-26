@@ -12,7 +12,9 @@ Discuss the background of the data set itself:
     8.  Summarise findings.
     
     Photo from  https://www.kaggle.com/mjbahmani/20-ml-algorithms-15-plot-for-beginners
-    ![](fisherproject/iris%20picturekaggle.png)
+    
+    ![iris picturekaggle](https://user-images.githubusercontent.com/47123224/56820409-bdec7a80-6843-11e9-9a29-d388f8f148c6.png)
+
 
 ![data iris balanced](https://user-images.githubusercontent.com/47123224/56813531-0ea8a700-6835-11e9-99fb-6d059148886d.png)
 
