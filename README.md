@@ -13,7 +13,7 @@ Discuss the background of the data set itself:
     
     
 
-![data iris balanced](https://user-images.githubusercontent.com/47123224/56813531-0ea8a700-6835-11e9-99fb-6d059148886d.png)
+
 
 Summary
 Fisher’s Iris Data Set
@@ -30,6 +30,7 @@ My first stage of the program reads the file from a downloaded csv file.
 The second stage confirms that we are looking at a balanced set of data where there is 50 studied of each type.
 
 
+![data iris balanced](https://user-images.githubusercontent.com/47123224/56821672-eaee5c80-6846-11e9-889d-59ea16a50b64.png)
 
  
 Third stage of the program deals with finding the required  values of max/min/mean of sepal_length,sepal_width,petal_length,and petal_width.
