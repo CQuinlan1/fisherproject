@@ -40,6 +40,8 @@ Third stage of the program deals with finding the required  values of max/min/me
 
  
 Fourth stage I looked at max/min/mean using the numpy function again but of each iris type
+![iris data min mxa mean for each iris species](https://user-images.githubusercontent.com/47123224/56820779-ae216600-6844-11e9-9638-8c8069a67c68.png)
+
  
 This I believed allowed for better comparison of the different attributes. We can see that the Setosa data Petal length and petal width set it apart from the others. Also we can note the Virginica sepal length mean at 6.6 . This may have been influenced by an outlier as we can see it has a minimum sepal length equal to that of the versicolor , however it has a maximum sepal length .9 greater.
 Stage 5 is where I do some additional statistics calculations  such as  standard deviation, correlation, and covariance 
