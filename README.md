@@ -61,6 +61,7 @@ As mentioned until colour is introduced it is difficult to appreciate the data f
 
 ![iris Graph 3](https://user-images.githubusercontent.com/47123224/56821193-9b5b6100-6845-11e9-9ec6-60211c62554b.png)
 ![Iris Graph 4](https://user-images.githubusercontent.com/47123224/56821296-cc3b9600-6845-11e9-9b9d-b23b8b234ffa.png)
+![iris gaph 5](https://user-images.githubusercontent.com/47123224/56821359-f8efad80-6845-11e9-9212-3e996aca1b77.png)
 
  
 However, with colour we can easily se that setosa sepal length to sepal width is quite defined whereas there is an overlap in the virginica and versicolor.
