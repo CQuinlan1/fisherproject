@@ -72,6 +72,7 @@ This graph 4 of petal width to petal length allows us understand our data even m
 In this graph 5 we can spot an one outlier in the setosa group where sepal length is divided by sepal width. 
 
 In graph 6 we can see that while the ratio of petal length to width   of the species virginica and versicolor are within certain parameters above 2-4 , the ratio for setosa is has much more variance. It can be seen from the graph to be between 2.5 to greater than 14 .
+
 Conclusion: 
 •	Setosa variety can be easily classified just by petal length and width, or sepal width and sepal length 
 •	With better parameters we could with varying degree of certainty classify the virginica and versicolor given their petal length and petal width
