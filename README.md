@@ -32,6 +32,8 @@ My program I broke into 6 stages in the end.
 My first stage of the program reads the file from a downloaded csv file.
 The second stage confirms that we are looking at a balanced set of data where there is 50 studied of each type.
 
+![data iris balanced](https://user-images.githubusercontent.com/47123224/56820547-23d90200-6844-11e9-9ab7-81bd4ece1563.png)
+
  
 Third stage of the program deals with finding the required  values of max/min/mean of sepal_length,sepal_width,petal_length,and petal_width.
  
