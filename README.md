@@ -45,10 +45,13 @@ Fourth stage I looked at max/min/mean using the numpy function again but of each
  
 This I believed allowed for better comparison of the different attributes. We can see that the Setosa data Petal length and petal width set it apart from the others. Also we can note the Virginica sepal length mean at 6.6 . This may have been influenced by an outlier as we can see it has a minimum sepal length equal to that of the versicolor , however it has a maximum sepal length .9 greater.
 Stage 5 is where I do some additional statistics calculations  such as  standard deviation, correlation, and covariance 
+![siris s devation corr and covariance](https://user-images.githubusercontent.com/47123224/56820860-e1fc8b80-6844-11e9-8d5f-70b4e42c6696.png)
+
  
 We can see that the general standard deviation for all classes for petal length is quite large when compared to the other standard deviations of the data. Also as we had expected the correlation between petal length and petal width, that is, the relationship as petal length increase the width increases is strong and positive at .962314 virtually perfectly linear. The next high correlation I notice is sepal length and petal length at .871283, this is surprising as you would have expected it to have been some strong relationship  between sepal length and width instead but  which are in fact very weakly negatively correlated.
 Also worth noting is covariance: between petal length it is highest at 3.096372, while second largest again is sepal length and petal length at 1.270362.
 Stage 6 was where I introduced graphics to help me visualise the data. I felt the scatterplot suited the data best. I initially tried with it being monotone but to aid our understanding adapted it to be represented in colour.  I created 6 graphs; the first 2 being monotone so we can compare the effects of colour on our understanding of the data.
+
   
 As mentioned until colour is introduced it is difficult to appreciate the data fully.
  
