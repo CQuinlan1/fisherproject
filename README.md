@@ -23,8 +23,7 @@ The Fisher data set was first introduced in 1936 by Ronald Fisher in a paper he 
 The Fisher data set consists  of 3 types of data: 50 sample of each of three species of Iris,  setosa, virginica and versicolor, where  4 characteristics noted 
 These four features  taken from each sample were: the length and width of  sepals and petals, in centimetres. 
 The data set contains 150 observations  (rows of data) of iris flowers. There are four columns of measurements of the flowers . The fifth column is the species of the flower. All observed flowers belong to one of three species.
-Central tendency averages
-Tables
+
 My program I broke into 6 stages in the end.
 My first stage of the program reads the file from a downloaded csv file.
 The second stage confirms that we are looking at a balanced set of data where there is 50 studied of each type.
