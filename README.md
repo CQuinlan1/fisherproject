@@ -57,6 +57,10 @@ Stage 6 was where I introduced graphics to help me visualise the data. I felt th
 
   
 As mentioned until colour is introduced it is difficult to appreciate the data fully.
+
+
+![iris Graph 3](https://user-images.githubusercontent.com/47123224/56821193-9b5b6100-6845-11e9-9ec6-60211c62554b.png)
+
  
 However, with colour we can easily se that setosa sepal length to sepal width is quite defined whereas there is an overlap in the virginica and versicolor.
  
