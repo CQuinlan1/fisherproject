@@ -10,3 +10,5 @@ Discuss the background of the data set itself:
     6.  Highlight irregularites or similarites.
     7.  Look at standard deviation, correlation and any predictability or inference we might find.
     8.  Summarise findings.
+
+![data iris balanced](https://user-images.githubusercontent.com/47123224/56813531-0ea8a700-6835-11e9-99fb-6d059148886d.png)
